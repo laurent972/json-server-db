@@ -6,6 +6,7 @@
       "lastName": "DEUF",
       "birthDate": "12/12/2058",
       "score": 0,
+      "email": "johnDeuf@gmail.com",
       "success": [
         {
           "Austerlitz": false,
@@ -20,6 +21,7 @@
       "lastName": "PARMENTIER",
       "birthDate": "12/12/1898",
       "score": 0,
+      "email": "achille.parmentier@gmail.com",
       "success": [
         {
           "Austerlitz": false,
@@ -34,6 +36,7 @@
       "lastName": "MURAT",
       "birthDate": "25/03/1767",
       "score": 0,
+      "email": "joachim.murat@gmail.com",
       "success": [
         {
           "Austerlitz": false,
@@ -48,6 +51,7 @@
       "lastName": "LANNES",
       "birthDate": "31/05/1809",
       "score": 0,
+      "email": "jean-lannes@gmail.com",
       "success": [
         {
           "Austerlitz": false,
@@ -62,6 +66,7 @@
       "lastName": "LANNES",
       "birthDate": "31/05/1809",
       "score": 0,
+      "email": "jean81@gmail.com",
       "success": [
         {
           "Austerlitz": false,
