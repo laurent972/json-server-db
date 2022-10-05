@@ -3,7 +3,7 @@
     {
       "id": "1",
       "firstName": "john",
-      "lastName": "DEUF",
+      "lastName": "deuf",
       "birthDate": "12/12/2058",
       "score": 0,
       "email": "johnDeuf@gmail.com",
@@ -35,7 +35,7 @@
     {
       "id": "3",
       "firstName": "Joachim",
-      "lastName": "MURAT",
+      "lastName": "Murat",
       "birthDate": "25/03/1767",
       "score": 0,
       "email": "joachim.murat@gmail.com",
