@@ -7,6 +7,7 @@
       "birthDate": "12/12/2058",
       "score": 0,
       "email": "johnDeuf@gmail.com",
+      "portrait":"https://api.lorem.space/image/face?w=150&h=150",
       "success": [
         {
           "Austerlitz": false,
@@ -22,6 +23,7 @@
       "birthDate": "12/12/1898",
       "score": 0,
       "email": "achille.parmentier@gmail.com",
+      "portrait":"https://api.lorem.space/image/face?w=150&h=150",
       "success": [
         {
           "Austerlitz": false,
@@ -37,6 +39,7 @@
       "birthDate": "25/03/1767",
       "score": 0,
       "email": "joachim.murat@gmail.com",
+      "portrait":"https://api.lorem.space/image/face?w=150&h=150",
       "success": [
         {
           "Austerlitz": false,
@@ -52,6 +55,7 @@
       "birthDate": "31/05/1809",
       "score": 0,
       "email": "jean-lannes@gmail.com",
+      "portrait":"https://api.lorem.space/image/face?w=150&h=150",
       "success": [
         {
           "Austerlitz": false,
@@ -67,6 +71,7 @@
       "birthDate": "31/05/1809",
       "score": 0,
       "email": "jean81@gmail.com",
+      "portrait":"https://api.lorem.space/image/face?w=150&h=150",
       "success": [
         {
           "Austerlitz": false,
@@ -81,18 +86,21 @@
     {
       "Austerlitz": [
          {
+            "id":1,
             "points":5, 
             "img": "http://placeimg.com/50/50/animals"
          }
       ],
       "Eylau": [
          {
+            "id":2,
             "points":1, 
             "img": "http://placeimg.com/50/50/animals"
          }
       ],
       "Marengo": [
          {
+            "id":3,
             "points":3, 
             "img": "http://placeimg.com/50/50/animals"
          }
